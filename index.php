@@ -24,7 +24,7 @@
               <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
                   <h3>Welcome to</h3>
-                  <h1>DEMOCRACTIC BANK</h1>
+                  <h1>SFI BANK</h1>
                 </div>
               </div>
               <div class="col-sm-20 col-md img text-center">
